@@ -53,12 +53,3 @@ else:
 #Q3
 tup = ("c","d","A","A","b","b","A")
 print(tup.count("A"))
-
-
-
-
-
-
-
-
-
